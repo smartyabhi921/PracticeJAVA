@@ -1,0 +1,19 @@
+/* print *
+**
+***
+**** */
+
+
+class Main {
+    public static void main(String args[]) { //S is cap for String
+    
+    System.out.println("*");
+    System.out.println("**");
+    System.out.println("***");
+    System.out.println("****");
+        
+        
+    }
+    
+    
+}
